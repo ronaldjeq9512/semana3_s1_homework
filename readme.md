@@ -15,16 +15,16 @@
 
 [HTML ETIQUETAS]
 
-1. Encabezados
-2. Parrafos
-3. Enlaces
+1. Encabezados: Es aquella en la que permiten mostrar títulos y subtítulos mediante jerarquías se les conoce como h1, h2, h3 y son elementos bloque
+2. Parrafos: etiqueta p la cual puedes agregar parrafos y son  elementos inline
+3. Enlaces: sirve para la navegación, definido por la etiqueta a, en ella se puede hacer la navegación a otra página web o a contenidos internos
 
 [HTML5 ETIQUETAS]
 
 1. HEADER : Contenido introductorio de su ancestro mas cercano
-2. NAV : navegacion para poner menus
+2. NAV : navegacion para poner menus es ahi donde se agrupan los enlaces
 3. FOOTER : Pie de pagina de una seccion o contenido
 4. SECTION : Seccion o division de contenido
 5. ARTICLE : contenido independiente , pero completo
 6. MAIN : Contenido principal de la pagina - UNICO
-7. ASIDE : Contenido no necesariamente relacionado
+7. ASIDE : Contenido no necesariamente relacionado, por lo general relacionado con la publicidad
